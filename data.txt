@@ -1,0 +1,3 @@
+hi 100
+hello 24
+world 7
